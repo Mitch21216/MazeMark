@@ -1,0 +1,31 @@
+.vision-container{
+    margin-top: 6em ;
+}
+.about-vision-comp-row{
+    background-color: aqua;
+}
+.vision-heading{
+    color: #fff;
+    font-weight: bold;
+}
+.vision-heading span{
+    color: black;
+}
+.vision-col-text{
+    padding-top: 10em ;
+    padding-bottom: 10em ;
+}
+.vision-services-btn{
+    border: 1px solid rgb(167, 165, 165);
+    width: fit-content;
+    color: rgb(167, 165, 165)8;
+    padding: 1em;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+.vision-services-btn:hover{
+    background-color: rgb(143, 143, 3);;
+    border: 1px solid rgb(143, 143, 3);
+    color: #fff;
+}
